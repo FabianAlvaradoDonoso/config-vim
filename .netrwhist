@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/fabian/.vim'
+let g:netrw_dirhist_0='/home/fabian/Android/Sdk'
+let g:netrw_dirhist_9='/home/fabian/Android'
+let g:netrw_dirhist_8='/home/fabian/Node'
+let g:netrw_dirhist_7='/home/fabian/.dotfiles/shell'
+let g:netrw_dirhist_6='/home/fabian/.dotfiles'
+let g:netrw_dirhist_5='/home/fabian'
+let g:netrw_dirhist_4='/home/fabian/pruebasconsockets'
+let g:netrw_dirhist_3='/home/fabian/Test'
+let g:netrw_dirhist_2='/home/fabian/tor-pinger'
